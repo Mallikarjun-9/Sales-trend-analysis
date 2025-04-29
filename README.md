@@ -46,3 +46,4 @@ ORDER BY order_year, order_month;
 
 ---
 
+![output](https://github.com/Mallikarjun-9/Sales-trend-analysis/blob/4957d126f98dec2112d98e4a34929903c2517578/Screenshot%202025-04-29%20165406.png)
