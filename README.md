@@ -44,6 +44,5 @@ FROM online_sales
 GROUP BY order_year, order_month
 ORDER BY order_year, order_month;
 
-```sql
 ---
 
