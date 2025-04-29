@@ -34,7 +34,7 @@ The analysis focuses on:
 
 ## 🧠 SQL Logic Used
 
-```sql
+
 SELECT 
   EXTRACT(YEAR FROM TO_TIMESTAMP(invoice_date, 'DD-MM-YYYY HH24:MI')) AS order_year,
   EXTRACT(MONTH FROM TO_TIMESTAMP(invoice_date, 'DD-MM-YYYY HH24:MI')) AS order_month,
